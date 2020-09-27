@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### My name is João Victor Rodrigues Hilario
+
+### I'm a full-stack developer, currently working on Monitora Soluções Tecnologicas
+
+- 🔭 I’m currently working on a chat app using angular and java
+- 📫 My email is jvrodrigueshilario@gmail.com
 <!--
 **jvrhjvrh/jvrhjvrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
